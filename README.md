@@ -1,4 +1,3 @@
-# SmartPetrolCalculator
 # Smart Petrol Cost Calculator with BUDI MADANI Rebate
 
 ## Introduction
