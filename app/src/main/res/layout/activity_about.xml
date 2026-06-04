@@ -68,7 +68,7 @@
             <!-- CLICKABLE GITHUB -->
             <TextView
                 android:id="@+id/tvGithub"
-                android:text="https://github.com/2024783817-collab/SmartPetrolCalculator.git"
+                android:text="https://github.com/AylaIzaty/SmartPetrolCalculator.git"
                 android:textColor="#003DA5"
                 android:textStyle="bold"
                 android:layout_marginTop="20dp"
